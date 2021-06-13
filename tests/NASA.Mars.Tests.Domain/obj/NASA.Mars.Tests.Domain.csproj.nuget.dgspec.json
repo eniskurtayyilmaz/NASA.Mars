@@ -1,0 +1,209 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\tests\\NASA.Mars.Tests.Domain\\NASA.Mars.Tests.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Domain\\NASA.Mars.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Domain\\NASA.Mars.Domain.csproj",
+        "projectName": "NASA.Mars.Domain",
+        "projectPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Domain\\NASA.Mars.Domain.csproj",
+        "packagesPath": "C:\\Users\\EKY.Local\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EKY.Local\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/topkapi-as/_packaging/PlatformCoreFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Shared\\NASA.Mars.Shared.csproj": {
+                "projectPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Shared\\NASA.Mars.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Shared\\NASA.Mars.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Shared\\NASA.Mars.Shared.csproj",
+        "projectName": "NASA.Mars.Shared",
+        "projectPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Shared\\NASA.Mars.Shared.csproj",
+        "packagesPath": "C:\\Users\\EKY.Local\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EKY.Local\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/topkapi-as/_packaging/PlatformCoreFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\tests\\NASA.Mars.Tests.Domain\\NASA.Mars.Tests.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\tests\\NASA.Mars.Tests.Domain\\NASA.Mars.Tests.Domain.csproj",
+        "projectName": "NASA.Mars.Tests.Domain",
+        "projectPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\tests\\NASA.Mars.Tests.Domain\\NASA.Mars.Tests.Domain.csproj",
+        "packagesPath": "C:\\Users\\EKY.Local\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\tests\\NASA.Mars.Tests.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\EKY.Local\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/topkapi-as/_packaging/PlatformCoreFeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Domain\\NASA.Mars.Domain.csproj": {
+                "projectPath": "C:\\Users\\EKY.Local\\source\\repos\\NASA.Mars\\src\\NASA.Mars.Domain\\NASA.Mars.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.7.1, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

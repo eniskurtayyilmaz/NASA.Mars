@@ -1,0 +1,12 @@
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\bin\Debug\net5.0\NASA.Mars.Shared.deps.json
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\bin\Debug\net5.0\NASA.Mars.Shared.dll
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\bin\Debug\net5.0\ref\NASA.Mars.Shared.dll
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\bin\Debug\net5.0\NASA.Mars.Shared.pdb
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.csprojAssemblyReference.cache
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.AssemblyInfoInputs.cache
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.AssemblyInfo.cs
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.csproj.CoreCompileInputs.cache
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.dll
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\ref\NASA.Mars.Shared.dll
+C:\Users\EKY.Local\source\repos\NASA.Mars\src\NASA.Mars.Shared\obj\Debug\net5.0\NASA.Mars.Shared.pdb

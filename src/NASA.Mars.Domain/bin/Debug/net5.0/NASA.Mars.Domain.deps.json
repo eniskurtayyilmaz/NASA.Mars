@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "NASA.Mars.Domain/1.0.0": {
+        "dependencies": {
+          "NASA.Mars.Shared": "1.0.0"
+        },
+        "runtime": {
+          "NASA.Mars.Domain.dll": {}
+        }
+      },
+      "NASA.Mars.Shared/1.0.0": {
+        "runtime": {
+          "NASA.Mars.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NASA.Mars.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NASA.Mars.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
